@@ -1,4 +1,4 @@
-name = input("what's your name? ")
+name = input()
 print(len(name))
 print(name.upper())
 print(name.lower())
